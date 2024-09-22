@@ -1,6 +1,6 @@
-import MySQL
+
 import mysql.connector
-import sys
+
 
 db = mysql.connector.connect(
     user="root",
